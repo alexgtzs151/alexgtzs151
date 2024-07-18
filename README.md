@@ -1,16 +1,12 @@
-## Hi there 👋
+Hola aqui!
 
-<!--
-**alexgtzs151/alexgtzs151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alejandro es un ✨ programador apasionado ✨ que disfruta creando soluciones innovadoras y eficientes. Aquí tienes algunos detalles sobre él:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente estoy trabajando en proyectos de desarrollo web.
+🌱 Estoy aprendiendo continuamente sobre nuevas tecnologías y metodologías de programación.
+👯 Estoy buscando colaborar en proyectos que utilicen Laravel, Tailwind, y Livewire.
+🤔 Busco ayuda con la optimización de rendimiento en aplicaciones web.
+💬 Pregúntame sobre programación en Java, C++, y Python.
+📫 Cómo contactarme: [tu correo electrónico o enlace de contacto]
+😄 Pronombres: él/él
+⚡ Dato curioso: Me encanta desarrollar sitios web y siempre estoy buscando nuevos desafíos.
